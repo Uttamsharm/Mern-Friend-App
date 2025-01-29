@@ -1,0 +1,12 @@
+/* global.css */
+body {
+    background-color: rgb(43, 226, 119); /* Light blue example */
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
